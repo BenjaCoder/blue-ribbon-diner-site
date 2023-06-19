@@ -1,0 +1,13 @@
+.container {
+    width: 1080px;
+    color: white;
+    background-color: #2a5490;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.column-left {
+    display: flex;
+    flex-direction: column;
+}
